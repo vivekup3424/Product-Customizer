@@ -1,0 +1,6 @@
+generate a .gitignore file for your project
+node_modules
+npm-debug.log
+.idea
+.env
+node_modules
